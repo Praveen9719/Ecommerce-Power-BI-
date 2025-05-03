@@ -1,5 +1,5 @@
 # Ecommerce-Power-BI Dashboard -
-#  This Power BI end to end Project
+ This Power BI end to end Project
 Interactive dashboards with filters and slicers
 - Key metrics displayed through KPIs and cards
 - Bar charts, line graphs, and pie charts for trend and distribution analysis
